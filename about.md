@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Irvin Dominin I’m a technology and coding passionate from Italy (Turin).
+
+Currently I work as Full Stack Developer at Sistemi S.p.A. I’m the Developer Lead of the team developing a framework called BUILDER/web and some web applications.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I’m working, or have worked, with:
+
+ - VB6
+ - VB .NET
+ - ASP .NET
+ - C#
+ - Javascript (+ jQuery)
+ - HTML & CSS
+ - TSQL
+ - ASP NET MVC
+ - Cordova
+
+I'm pretty familiar with Windows and Mac OS and with iOS and Android.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[irvin.dominin@gmail.com](mailto:irvin.dominin@gmail.com)
