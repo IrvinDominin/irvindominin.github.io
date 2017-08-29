@@ -1,6 +1,8 @@
 ---
 layout: post
 title: .NET Core 2.0 - Send an e-mail
+category: Dev
+tags: [.NET Core]
 ---
 
 In .NET Core 1.x the SMTP client code was not ported, that is true until of .NET Core 2.0.

@@ -5,12 +5,18 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
+  <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="tags">
+      {% for tag in page.tags %}
+        <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}"> {{ tag }} </a>
+      {% endfor %}
+  </div>
+
+  <div class="entry">
+    {{ content }}
   </div>
 
   {% include share-page.html %}
