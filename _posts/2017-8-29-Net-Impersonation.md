@@ -5,7 +5,7 @@ category: Dev
 tags: [.NET, C#]
 ---
 
-Usually, in .NET in order to impersonate a local user on another machine (e.g. for copying a file or readinf a folder), the same credential are copied on the machine that require access.
+Usually, in .NET in order to impersonate a local user on another machine (e.g. for copying a file or for read a folder), the same credential are copied on the machine that require access.
 
 It can be used a method like the following:
 
