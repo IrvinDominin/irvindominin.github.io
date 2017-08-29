@@ -9,11 +9,11 @@ layout: default
       Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  <div class="tags">
+  <span class="tags">
       {% for tag in page.tags %}
         <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}"> {{ tag }} </a>
       {% endfor %}
-  </div>
+  </span>
 
   <div class="entry">
     {{ content }}
