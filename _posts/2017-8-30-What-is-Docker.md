@@ -26,6 +26,7 @@ Imagine Docker like a virtual machine. But, the main difference between them, is
     </div>
 </div>
 
+
 And VM and Docker can be combined to empower deploying, scaling and managing applications:
 <figure>
     <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/Together.png" alt="glfdrio" /> 
