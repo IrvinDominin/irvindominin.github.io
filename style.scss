@@ -334,16 +334,18 @@ small.post-date {
   padding: 0;
 }
 
+div.post-comparison {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+
 div.post-comparison-left {
-  float: left;
-  width: 48%;
-  margin: 5px;  
+  display: table-cell;
 }
 
 div.post-comparison-right {
-  float: right;
-  width: 48%;
-  margin: 5px;  
+  display: table-cell;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
