@@ -29,7 +29,3 @@ I’m working, or have worked, with:
  - Cordova
 
 I'm pretty familiar with Windows and Mac OS and with iOS and Android.
-
-### Contact me
-
-[irvin.dominin@gmail.com](mailto:irvin.dominin@gmail.com)
