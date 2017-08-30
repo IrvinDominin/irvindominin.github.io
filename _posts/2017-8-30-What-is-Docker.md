@@ -11,7 +11,7 @@ Obviously if the application and the API used are strictly coupled to the OS the
 
 Imagine Docker like a virtual machine. But, the main difference between them, is that Docker instead of creating a whole virtual operating system, allows applications to use the same kernel as the system that they're running on and only requires applications be shipped with things not already running on the host computer. This gives a performance boost and reduces the size of the application.
 
-<div>
+<div class="post-comparison">
     <div class="post-comparison-left">
         <figure>
             <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/VM.png" alt="glfdrio" /> 
