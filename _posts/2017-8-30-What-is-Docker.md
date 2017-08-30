@@ -26,12 +26,13 @@ Imagine Docker like a virtual machine. But, the main difference between them, is
     </div>
 </div>
 
-
-And VM and Docker can be combined to empower deploying, scaling and managing applications:
-<figure>
-    <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/Together.png" alt="glfdrio" /> 
-    <figcaption>Containers and VMs used together</figcaption>
-</figure>
+<div>
+    And VM and Docker can be combined to empower deploying, scaling and managing applications:
+    <figure>
+        <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/Together.png" alt="glfdrio" /> 
+        <figcaption>Containers and VMs used together</figcaption>
+    </figure>
+</div>
 
 <h2>For who Docker is designed?</h2>
 The Docker platform is designed to benefit both developers and system administrators, the problematic and well-knowed Dev vs. IT scenario. Using Docker these figures embrace the DevOps (developers + operations) philosophy. 
