@@ -334,7 +334,13 @@ small.post-date {
   padding: 0;
 }
 
-div.post-comparison {
+div.post-comparison-left {
+  float: left;
+  width: 48%;
+  margin: 5px;  
+}
+
+div.post-comparison-rigth {
   float: left;
   width: 48%;
   margin: 5px;  

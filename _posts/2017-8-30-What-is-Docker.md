@@ -12,13 +12,13 @@ Obviously if the application and the API used are strictly coupled to the OS the
 Imagine Docker like a virtual machine. But, the main difference between them, is that Docker instead of creating a whole virtual operating system, allows applications to use the same kernel as the system that they're running on and only requires applications be shipped with things not already running on the host computer. This gives a performance boost and reduces the size of the application.
 
 <div>
-    <div class="post-comparison">
+    <div class="post-comparison-left">
         <figure>
             <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/VM.png" alt="glfdrio" /> 
             <figcaption>Traditional VM</figcaption>
         </figure>
     </div>
-    <div  class="post-comparison">
+    <div  class="post-comparison-right">
         <figure>
             <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/Container.png" alt="glfdrio" /> 
             <figcaption>Container</figcaption>
@@ -26,13 +26,11 @@ Imagine Docker like a virtual machine. But, the main difference between them, is
     </div>
 </div>
 
-<div>
-    And VM and Docker can be combined to empower deploying, scaling and managing applications:
-    <figure>
-        <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/Together.png" alt="glfdrio" /> 
-        <figcaption>Containers and VMs used together</figcaption>
-    </figure>
-</div>
+And VM and Docker can be combined to empower deploying, scaling and managing applications:
+<figure>
+    <img class="alignnone size-full wp-image-119" src="/images/WhatIsDocker/Together.png" alt="glfdrio" /> 
+    <figcaption>Containers and VMs used together</figcaption>
+</figure>
 
 <h2>For who Docker is designed?</h2>
 The Docker platform is designed to benefit both developers and system administrators, the problematic and well-knowed Dev vs. IT scenario. Using Docker these figures embrace the DevOps (developers + operations) philosophy. 
