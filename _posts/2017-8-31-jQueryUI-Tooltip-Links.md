@@ -36,4 +36,4 @@ $(function () {
 Currently we can't expect that the jQuery UI team add this feature.
 
 You can play with this code in the following jsFiddle:
-<iframe width="100%" height="300" src="//jsfiddle.net/IrvinDominin/jLkcs/5/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/IrvinDominin/kmu8o7pe/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
