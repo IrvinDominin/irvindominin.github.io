@@ -3,6 +3,8 @@ layout: post
 title: What is Docker?
 category: Dev
 tags: [Docker]
+image: https://irvindominin.github.io/images/WhatIsDocker/docker_logo.jpg
+excerpt: "Docker is a wide platform designed to make it simple to create, deploy, and run applications by using containers."
 ---
 
 Docker is a wide platform designed to make it simple to create, deploy, and run applications by using containers. Containers allow a developer (like me) to package up an application with all of the parts it needs, such as libraries, its dependencies, and the framework itself and ship it all out as one package. So, thanks to the container, the developer can be sure that it's application will run without care on what environment will host the application.
