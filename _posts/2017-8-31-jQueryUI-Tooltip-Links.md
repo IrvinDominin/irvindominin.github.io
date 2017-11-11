@@ -2,7 +2,7 @@
 layout: post
 title: jQueryUI - Tooltip with links
 category: Dev
-tags: [jQuery, ]
+tags: [jQuery, jQuery UI]
 ---
 
 <a href="http://api.jqueryui.com/tooltip/">jQuery UI Tooltip</a> is a jQuery UI plugin that allows you to use a custom tooltip instead of the standard title attribute. It can contain various kind of data, but is not possibile to click links inside the displyed tooltip data.
