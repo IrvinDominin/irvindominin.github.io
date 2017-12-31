@@ -29,7 +29,7 @@ if (bool.TryParse("false", out bool _)) { /* Rest of the code */ }
 ```
 Because _ is unreadable, we can't use its value to assign other variables, it will not appear in IntelliSense and if we try to use it the code will not compile.
 
-<img class="alignnone size-full wp-image-114" src="/images/CS7/Discard_Usage_1.png" alt="Discard_Usage_1.png" width="619" height="221" />
+<img class="alignnone size-full wp-image-114" src="/images/CS7/Discard_Usage_1.png" alt="Discard_Usage_1.png" width="449" height="221" />
 
 <h2>Conclusion</h2>
 The discards it is a designer feature, the local variable still be required at runtime and the compiler also generate a name for it. This feature is compatible with previous versions of .NET platforms as it does not require a CLR change.
