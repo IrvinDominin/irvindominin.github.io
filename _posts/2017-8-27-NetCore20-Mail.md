@@ -35,7 +35,8 @@ message.From.Add(new MailboxAddress("No-reply", "noreply@myblog.io"));
 message.To.Add(new MailboxAddress(<to>, <to>));
 message.Subject = "New e-mail";
 message.Body = new TextPart("plain") {
-Text = "Wow, a MailKit e-mail";
+	Text = "Wow, a MailKit e-mail";
+}
 
 using (var client = new SmtpClient ()) {
 	// For demo-purposes, accept all SSL certificates (in case the server supports STARTTLS)
